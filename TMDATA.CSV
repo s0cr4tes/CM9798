@@ -1409,7 +1409,7 @@ Egypt,Egypt,,,,,,,,,,,,,,,,,,,,Africa,North Africa,2,0,0,1,0,Cairo,Cairo Interna
 Egypt U21,Egypt U21,,,,,,,,,,,,,,,,,,,,Egypt,North Africa,2,0,0,1,0,Cairo,,0,0,0,12,13,532N,PASS,WHI,RED,RED,WHI,,,0,0,0,1,0,1,0,0,0,0
 El Salvador,El Salvador,,,,,,,,,,,,,,,,,,,,CONCACAF,Central America,3,0,0,1,0,San Salvador,Nacional de Flor Blanca,60000,0,0,7,11,442N,CONT,WHI,BLU,BLU,WHI,,,0,0,1,0,0,0,0,1,0,0
 Elazigspor,Elazigspor,,,,,,,,,,,,,,,,,,,,Turkey,,0,0,0,0,0,Elazig,Atatürk,12514,12514,0,7,0,442N,PASS,WHI,WIN,WIN,DWHI,,,17,100,0,0,0,0,0,0,1,0
-Emirates Club,Emirates,,,,,,,,,,,,,,,,,,,,United Arab Emirates,,0,0,0,0,0,Ras Al-Khaima,Al-Emirates Club,10000,10000,0,6,1,442N,PASS,GRN,WHI,WHI,GRN,,,0,0,0,0,0,0,0,0,0,0
+Emirates Club,Emirates,,,,,,,,,,,,,,,,,,,,United Arab Emirates,,0,0,0,0,0,Ras Al-Khaima,Al-Emirates Club,10000,10000,0,6,1,442N,PASS,GRN,WHI,WHI,GRN,,,0,1000,0,0,0,0,0,0,0,0
 EN Paralimniou,Paralimni,,,,,,,,,,,,,,,,,,,,Cyprus,,0,0,0,0,0,Paralimni,Tasos Markou,7760,7760,5,6,0,451D,PASS,LBLU,WIN,WHI,WIN,,,0,55,0,0,0,1,0,0,1,0
 England,England,,,,,,,,,,,,,,,,,,,,Europe,Great Britain,1,0,0,1,75033,London,Wembley Stadium,90000,90000,0,17,18,442N,DRCT,DBLU,WHI,WHI,DRED,,,0,0,20,0,0,0,0,1,0,0
 England U21,England U21,,,,,,,,,,,,,,,,,,,,England,Great Britain,1,0,0,1,0,London,,0,0,0,16,18,442N,DRCT,DBLU,WHI,WHI,DRED,,,0,0,0,1,0,1,0,0,0,0
@@ -2213,3 +2213,4 @@ Zimbabwe,Zimbabwe,,,,,,,,,,,,,,,,,,,,Africa,Central Africa,3,0,0,1,0,Harare,Nati
 Zimbabwe U21,Zimbabwe U21,,,,,,,,,,,,,,,,,,,,Zimbabwe,Central Africa,3,0,0,1,0,Harare,,0,0,0,7,7,442N,CONT,WHI,GRN,RED,WHI,,,0,0,0,1,0,1,0,0,0,0
 Zob-Ahan Esfahan,Zob-Ahan,,,,,,,,,,,,,,,,,,,,Iran,,0,0,0,0,0,Esfahan,Fouladshahr,20000,20000,6,10,12,442D,DRCT,DGRN,WHI,WHI,DGRN,,,0,950,0,0,0,0,0,0,0,0
 Örebro SK,Orebro,,,,,,,,,,,,,,,,,,,,Sweden,,0,0,0,0,0,Orebro,Behrn Arena,14400,14400,7,10,10,442D,PASS,BLA,WHI,WHI,BLA,,,0,100,0,0,0,1,0,0,1,0
+Al Jazira Club,Al Jazira,,,,,,,,,,,,,,,,,,,,United Arab Emirates,,0,0,0,0,0,Abu Dhabi,Al-Jazira Mohammed bin Zayed Stadium,10000,10000,0,6,1,442N,PASS,RED,BLA,WHI,RED,,,0,1000,0,0,0,0,0,0,0,0
